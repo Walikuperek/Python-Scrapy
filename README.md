@@ -1,6 +1,6 @@
 # Python-Scrapy
-    Web Crawler set to extract some headers, 
-    then save them into onet.txt 
+Web Crawler set to extract some headers from [onet.pl](https://www.onet.pl)
+then save them into onet.txt 
 
 ### Scrapy package
 
