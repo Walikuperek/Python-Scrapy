@@ -2,7 +2,7 @@ import scrapy
 
 
 class OnetSpider(scrapy.Spider):
-    name = "spider"
+    name = 'onet_spider'
 
     def start_requests(self):
         urls = [
@@ -16,17 +16,26 @@ class OnetSpider(scrapy.Spider):
 
         filename = 'onet.txt'
         with open(filename, 'a') as f:
-            f.write(str(response_arr))
+            for i in range(len(response_arr)):
+                f.write('\n')
+                f.write(str(i))
+                f.write(' ')
+                if str(response_arr[i]) != 'None':
+                    f.write(str(response_arr[i]))
+
         self.log('Saved file %s' % filename)
 
     def get_array_of_response(self, response):
         response_arr = []
-        for i in range(15):
+        for i in range(20):
+            # Get text data for every header and description
             res = response.xpath('//*[@id="mainPageBody"]/div[3]/div[1]/article/section[1]/div[2]/ul/li[' + str(i) + ']/a/span/text()').get()
+
+            # Change type to string and remove whitespaces
             res = str(res)
             res = res.strip()
-            print('i: ', i)
-            print(res)
+
+            # append to returned array
             response_arr.append(res)
-            print(response_arr)
+
         return response_arr

@@ -1,0 +1,220 @@
+
+0 header: 
+1 len(desc): 4
+    
+
+
+2 header: FinSpy Spyware for Mac and Linux OS Targets Egyptian Organisations
+3 len(desc): 991
+    Amnesty International today exposed details of a new surveillan
+    ce campaign that targeted Egyptian civil society organizations 
+    with previously undisclosed versions of FinSpy spyware designed
+     to target Linux and macOS systems.  Developed by a German comp
+    any , FinSpy is extremely powerful spying software that is bein
+    g sold as a legal law enforcement tool to governments around th
+    e world  but has also been found  in use by oppressive and dubi
+    ous regimes to spy on activists.  FinSpy, also known as FinFish
+    er, can target both desktop and mobile operating systems, inclu
+    ding Android, iOS, Windows, macOS, and Linux, to gain spying ca
+    pabilities, including secretly turning on their webcams and mic
+    rophones, recording everything the victim types on the keyboard
+    , intercepting calls, and exfiltration of data.   According to 
+    the human rights organization Amnesty International , the newly
+     discovered campaign is not linked to 'NilePhish,' a hacking gr
+    oup known for attacking Egyptian NGOs in a ser
+
+
+4 header: Microsoft Windows XP Source Code Reportedly Leaked Online
+5 len(desc): 980
+    Microsoft's long-lived operating system Windows XP—that still p
+    owers over 1% of all laptops and desktop computers worldwide—ha
+    s had its source code leaked online, allegedly, along with Wind
+    ows Server 2003.  Yes, you heard that right.  The source code f
+    or Microsoft's 19-year-old operating system was published as a 
+    torrent file on notorious bulletin board website 4chan, and it'
+    s for the very first time when source code for Microsoft's oper
+    ating system has been leaked to the public.   Several reports s
+    uggest that the collection of torrent files, which weigh 43GB i
+    n size, also said to include the source code for Windows Server
+     2003 and several Microsoft's older operating systems, includin
+    g:   Windows 2000  Windows CE 3   Windows CE 4   Windows CE 5  
+     Windows Embedded 7  Windows Embedded CE  Windows NT 3.5  Windo
+    ws NT 4  MS-DOS 3.30   MS-DOS 6.0   The torrent download also i
+    ncludes the alleged source code for various Windows 10 componen
+    ts that  appeared in 2017  and sour
+
+
+6 header: 
+7 len(desc): 4
+    
+
+
+8 header: Fortinet VPN with Default Settings Leave 200,000 Businesses Open to Hackers
+9 len(desc): 981
+    As the pandemic continues to accelerate the shift towards worki
+    ng from home, a  slew of digital threats  have capitalized on t
+    he health concern to exploit weaknesses in the remote work infr
+    astructure and carry out malicious attacks.  Now according to n
+    etwork security platform provider SAM Seamless Network , over 2
+    00,000 businesses that have deployed the Fortigate VPN solution
+    —with default configuration—to enable employees to connect remo
+    tely are vulnerable to man-in-the-middle (MitM) attacks, allowi
+    ng attackers to present a valid SSL certificate and fraudulentl
+    y take over a connection.  "We quickly found that under default
+     configuration the SSL VPN is not as protected as it should be,
+     and is vulnerable to MITM attacks quite easily," SAM IoT Secur
+    ity Lab's Niv Hertz and Lior Tashimov said.  "The Fortigate SSL
+    -VPN client only verifies that the CA was issued by Fortigate (
+    or another trusted CA), therefore an attacker can easily presen
+    t a certificate issued to a differen
+
+
+10 header: Major Instagram App Bug Could've Given Hackers Remote Access to Your Phone
+11 len(desc): 982
+    Ever wonder how hackers can hack your smartphone remotely?  In 
+    a report shared with The Hacker News today, Check Point researc
+    hers disclosed details about a  critical vulnerability  in Inst
+    agram's Android app that could have allowed remote attackers to
+     take control over a targeted device just by sending victims a 
+    specially crafted image.  What's more worrisome is that the fla
+    w not only lets attackers perform actions on behalf of the user
+     within the Instagram app—including spying on victim's private 
+    messages and even deleting or posting photos from their account
+    s—but also execute arbitrary code on the device.  According to 
+    an  advisory  published by Facebook, the heap overflow security
+     issue (tracked as CVE-2020-1895 , CVSS score: 7.8) impacts all
+     versions of the Instagram app prior to 128.0.0.26.128, which w
+    as released on February 10 earlier this year.   "This [flaw] tu
+    rns the device into a tool for spying on targeted users without
+     their knowledge, as well as enabling
+
+
+12 header: 
+13 len(desc): 4
+    
+
+
+14 header: Detecting and Preventing Critical ZeroLogon Windows Server Vulnerability
+15 len(desc): 974
+    If you're administrating Windows Server, make sure it's up to d
+    ate with all recent patches issued by Microsoft, especially the
+     one that fixes a recently patched critical vulnerability that 
+    could allow unauthenticated attackers to compromise the domain 
+    controller.  Dubbed 'Zerologon' (CVE-2020-1472) and discovered 
+    by Tom Tervoort of  Secura , the privilege escalation vulnerabi
+    lity exists due to the insecure usage of AES-CFB8 encryption fo
+    r Netlogon sessions, allowing remote attackers to establish a c
+    onnection to the targeted domain controller over Netlogon Remot
+    e Protocol (MS-NRPC).  "The attack utilizes flaws in an authent
+    ication protocol that validates the authenticity and identity o
+    f a domain-joined computer to the Domain Controller. Due to the
+     incorrect use of an AES mode of operation, it is possible to s
+    poof the identity of any computer account (including that of th
+    e DC itself) and set an empty password for that account in the 
+    domain," researchers at cyber
+
+
+16 header: A New Hacking Group Hitting Russian Companies With Ransomware
+17 len(desc): 974
+    As ransomware attacks  against critical infrastructure continue
+     to spike in recent months, cybersecurity researchers have unco
+    vered a new entrant that has been actively trying to conduct mu
+    ltistage attacks on large corporate networks of medical labs, b
+    anks, manufacturers, and software developers in Russia.  The ra
+    nsomware gang, codenamed "OldGremlin" and believed to be a Russ
+    ian-speaking threat actor, has been linked to a series of campa
+    igns at least since March, including a successful attack agains
+    t a clinical diagnostics laboratory that occurred last month on
+     August 11.  "The group has targeted only Russian companies so 
+    far, which was typical for many Russian-speaking adversaries, s
+    uch as  Silence  and  Cobalt , at the beginning of their crimin
+    al path," Singaporean cybersecurity firm Group-IB said in a rep
+    ort published today and shared with The Hacker News.   "Using R
+    ussia as a testing ground, these groups then switched to other 
+    geographies to distance thems
+
+
+18 header: Unsecured Microsoft Bing Server Exposed Users' Search Queries and Location
+19 len(desc): 991
+    A back-end server associated with Microsoft Bing exposed sensit
+    ive data of the search engine's mobile application users, inclu
+    ding search queries, device details, and GPS coordinates, among
+     others.  The logging database, however, doesn't include any pe
+    rsonal details such as names or addresses.  The data leak, disc
+    overed by Ata Hakcil of  WizCase  on September 12, is a massive
+     6.5TB cache of log files that was left for anyone to access wi
+    thout any password, potentially allowing cybercriminals to leve
+    rage the information for carrying out extortion and phishing sc
+    ams.  According to WizCase, the Elastic server is believed to h
+    ave been password protected until September 10, after which the
+     authentication seems to have been inadvertently removed.  Afte
+    r the findings were privately disclosed to Microsoft Security R
+    esponse Center, the Windows maker addressed the misconfiguratio
+    n on September 16.   Misconfigured servers have been a constant
+      source of data leaks  in recent years, resul
+
+
+20 header: British Hacker Sentenced to 5 Years for Blackmailing U.S. Companies
+21 len(desc): 990
+    A UK man who threatened to publicly release stolen confidential
+     information unless the victims agreed to fulfill his digital e
+    xtortion demands has finally pleaded guilty on Monday at U.S. f
+    ederal district court in St. Louis, Missouri.   Nathan Francis 
+    Wyatt  , 39, who is a key member of the infamous international 
+    hacking group 'The Dark Overlord,' has been  sentenced  to five
+     years in prison and ordered to pay $1,467,048 in restitution t
+    o his victims.  Wyatt, who was  extradited to the United States
+      late last year after being held for over two years in the Uni
+    ted Kingdom, has pleaded guilty to conspiring to commit aggrava
+    ted identity theft and computer fraud.   U.K. police first arre
+    sted Wyatt in September 2016 during an investigation into the h
+    acking of an iCloud account belonging to Pippa Middleton, the y
+    ounger sister of the British royal family member Duchess of Cam
+    bridge, and stealing 3,000 images of her.  Though he was releas
+    ed in that case without charge due to lack of
+
+
+22 header: 
+23 len(desc): 4
+    
+
+
+24 header: 
+25 len(desc): 4
+    
+
+
+26 header: 
+27 len(desc): 4
+    
+
+
+28 header: 
+29 len(desc): 4
+    
+
+
+30 header: 
+31 len(desc): 4
+    
+
+
+32 header: 
+33 len(desc): 4
+    
+
+
+34 header: 
+35 len(desc): 4
+    
+
+
+36 header: 
+37 len(desc): 4
+    
+
+
+38 header: 
+39 len(desc): 4
+    
+
