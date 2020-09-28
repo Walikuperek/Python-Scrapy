@@ -5,8 +5,7 @@ Web Crawler set to extract some text from
 
 then save them as 
 * string( array of text ) 
-into 
-* files with .txt extension
+* into files with .txt extension
 
 ### PIP dependency:
 * Scrapy - Web Scrapping Framework
